@@ -1,4 +1,4 @@
-##  _**10- Results and Conclusion:**_
+##  _**Results and Conclusion:**_
 
 - After analyzing the data and applying different models, we can conclude that the Random Forest model is the best model for predicting the survival of passengers on the Titanic. 
 
